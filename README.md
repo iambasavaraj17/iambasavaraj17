@@ -3,6 +3,7 @@
 
 # 💫 About Me:
 DevOps Engineer with 3.3+ years of experience in AWS, Kubernetes, Terraform, and Jenkins.
+#
 Skilled in CI/CD, cloud automation, and monitoring tools with proven success in secure infrastructure, and delivering scalable, high-performance solutions.
 
 > 🚀 DevOps Engineer passionate about building scalable, reliable cloud infrastructure using CI/CD, containers, and automation.
@@ -11,7 +12,8 @@ Skilled in CI/CD, cloud automation, and monitoring tools with proven success in 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/basavaraj-laxmeshwar-869722316/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lbasavaraj275@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/basavaraj-laxmeshwar-869722316/)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lbasavaraj275@gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
