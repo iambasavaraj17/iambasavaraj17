@@ -1,11 +1,13 @@
-## Hi there 👋
+# Hi there 👋
 
 
 # 💫 About Me:
 DevOps Engineer with 3.3+ years of experience in AWS, Kubernetes, Terraform, and Jenkins.
 Skilled in CI/CD, cloud automation, and monitoring tools with proven success in secure infrastructure, and delivering scalable, high-performance solutions.
 
-Currently helping Organizations Scale Infrastructure with DevOps | AWS | Terraform | Kubernetes | Docker
+> 🚀 DevOps Engineer passionate about building scalable, reliable cloud infrastructure using CI/CD, containers, and automation.
+> 🤖 Exploring the intersection of AI and DevOps (AIOps) to improve monitoring, automation, and system reliability.
+> ☁️ Hands-on experience with cloud platforms, infrastructure as code, and modern DevOps tooling.
 
 
 ## 🌐 Socials:
