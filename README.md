@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-DevOps Engineer with 3.3+ years of experience in AWS, Kubernetes, Terraform, and Jenkins.  
+I'm a DevOps/Cloud Engineer with 3.3+ years of experience in AWS, Kubernetes, Terraform, and Jenkins.  
 Skilled in CI/CD, cloud automation, and monitoring tools with proven success in secure infrastructure, and delivering scalable, high-performance solutions.  
 
 🚀 DevOps Engineer passionate about building scalable, reliable cloud infrastructure using CI/CD, containers, and automation.  
